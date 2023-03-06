@@ -1,0 +1,375 @@
+id,x_coord,y_coord,name
+2, 38.6926735, -9.2221668, Unknown - viewpoint
+11, 38.6922828, -9.2171623, Museu dos Combatentes do Ultramar - museum
+13, 38.7012167, -9.2138013, Unknown - viewpoint
+15, 38.6917871, -9.2152304, Unknown - viewpoint
+17, 38.6943666, -9.2118953, Centro de Arqueologia de Lisboa - museum
+21, 38.6944734, -9.2093385, Garagem Sul - museum
+49, 38.7562461, -9.2102434, Unknown - apartment
+52, 38.6956474, -9.2093100, Museu Coleção Berardo - museum
+54, 38.6973662, -9.2070794, Museu Nacional de Arqueologia - museum
+58, 38.6994971, -9.2059422, Museu do Centro Cultural Casapiano - museum
+59, 38.6974468, -9.2029922, Famous Crows Hostel - guest_house
+69, 38.6971218, -9.2080263, Museu de Marinha - museum
+71, 38.6992651, -9.2053782, Terrace Lisbon Hostel - hostel
+72, 38.6944734, -9.2093385, Garagem Sul - museum
+74, 38.6935334, -9.2056728, Unknown - viewpoint
+77, 38.7097605, -9.2056155, Parque de Merendas do Parque Recreativo dos Moinhos de Santana - picnic_site
+82, 38.7188921, -9.2006158, Parque Merendas do Picadeiro - picnic_site
+83, 38.7171632, -9.2024656, Parque de merendas das Cavalariças (Montes Claros) - picnic_site
+114, 38.6957445, -9.1953987, MAAT - Tejo Power Station - museum
+117, 38.6958546, -9.1932922, Unknown - viewpoint
+120, 38.7076051, -9.1987460, Museu do Tesouro Real - museum
+121, 38.7086628, -9.1994577, Mirante da Ajuda - viewpoint
+125, 38.7208558, -9.1967980, Parque de Merendas do Moinho do Penedo - picnic_site
+126, 38.7151328, -9.1955994, Parque de Merendas Europa - picnic_site
+127, 38.7208188, -9.1965748, Miradouro do Moinho do Penedo - viewpoint
+133, 38.7199928, -9.1996254, Unknown - viewpoint
+145, 38.7256526, -9.1995904, Parque de Merendas da Estrada do Outeiro - picnic_site
+146, 38.7260491, -9.1979380, Parque de Merendas Cruz das Oliveiras - picnic_site
+163, 38.7397427, -9.1949769, Unknown - picnic_site
+185, 38.7761910, -9.1932483, Unknown - picnic_site
+188, 38.7008490, -9.1824432, Museu do Centro Científico e Cultural de Macau - museum
+190, 38.7025212, -9.1801889, Galeria do Museu Carris - gallery
+192, 38.7113558, -9.1851212, Parque de Merendas - picnic_site
+193, 38.7211141, -9.1870175, Unknown - picnic_site
+194, 38.7211560, -9.1896589, Parque de Merendas "Alameda Keil do Amaral" - picnic_site
+195, 38.7191298, -9.1865071, Parque de Merendas do Alvito - picnic_site
+202, 38.7230237, -9.1853799, Parque de Merendas do Miradouro da Escarpa - picnic_site
+203, 38.7230532, -9.1852356, Miradouro da Escarpa - viewpoint
+216, 38.7286232, -9.1846120, Miradouro Panorâmico do Monsanto - viewpoint
+225, 38.7402644, -9.1862477, Parque de Merendas do Centro de Interpretação de Monsanto - picnic_site
+233, 38.7495821, -9.1802357, Museu da Música - museum
+235, 38.7497734, -9.1798273, Museu Nacional da Música - museum
+242, 38.7437360, -9.1882317, Parque de Merendas da Mata de São Domingos de Benfica - picnic_site
+253, 38.6999996, -9.1795689, Miradouro Pilar 7 - viewpoint
+256, 38.7064881, -9.1717810, Miradouro do Largo das Necessidades - viewpoint
+257, 38.7039245, -9.1792451, BMAD- Museu Art Deco - museum
+258, 38.7064324, -9.1722900, Museu da Casa de Goa - museum
+259, 38.7228595, -9.1699553, Unknown - viewpoint
+260, 38.7293161, -9.1697424, Aqueduto das Águas Livres - viewpoint
+262, 38.7292923, -9.1697824, Aqueduto das Águas Livres - viewpoint
+263, 38.7333914, -9.1756878, Alto da Serafina - viewpoint
+264, 38.7293161, -9.1697424, Aqueduto das Águas Livres - viewpoint
+285, 38.7329231, -9.1770991, Parque de Merendas do Parque Recreativo da Serafina - picnic_site
+286, 38.7375720, -9.1770110, Parque de Merendas do Parque Recreativo do Calhau - picnic_site
+287, 38.7314348, -9.1778666, Parque de Merendas do Parque da Pedra - picnic_site
+291, 38.7292923, -9.1697824, Aqueduto das Águas Livres - viewpoint
+292, 38.7370141, -9.1743973, Miradouro do Moinho das Três Cruzes - viewpoint
+297, 38.7431139, -9.1710556, Unknown - viewpoint
+298, 38.7431618, -9.1709760, Unknown - viewpoint
+300, 38.7452158, -9.1724306, Unknown - viewpoint
+301, 38.7450503, -9.1700390, Unknown - picnic_site
+302, 38.7452387, -9.1702711, Unknown - picnic_site
+373, 38.7041787, -9.1627272, Miradouro da Rocha de Conde de Óbidos - viewpoint
+382, 38.7057251, -9.1665474, Cheese & Wine Lapa - guest_house
+386, 38.7166447, -9.1624508, Casa Fernando Pessoa - museum
+387, 38.7130656, -9.1605847, Miradouro da Basílica da Estrela - viewpoint
+391, 38.7177005, -9.1681317, Star hostel - hostel
+394, 38.7141490, -9.1623843, Estrela Terrace Apartment - apartment
+396, 38.7264769, -9.1687638, Unknown - viewpoint
+397, 38.7293161, -9.1697424, Aqueduto das Águas Livres - viewpoint
+398, 38.7248170, -9.1668433, Unknown - viewpoint
+399, 38.7304255, -9.1612785, LiveOnTop - apartment
+401, 38.7296527, -9.1631223, colorida art Gallery - gallery
+402, 38.7292923, -9.1697824, Aqueduto das Águas Livres - viewpoint
+408, 38.7347513, -9.1613343, Unknown - viewpoint
+412, 38.7434472, -9.1682731, Carrossel - theme_park
+414, 38.7433081, -9.1682008, Museu das Crianças - museum
+420, 38.7478627, -9.1672523, Comtesse Lisbonne Guest House - guest_house
+431, 38.7751509, -9.1648109, Museu Nacional do Traje e da Moda - museum
+432, 38.7747516, -9.1669443, Museu Nacional do Teatro e da Dança - museum
+435, 38.7075514, -9.1538721, Jardim de Santos Hostel - hostel
+436, 38.7089731, -9.1498220, Verso Branco - gallery
+437, 38.7080039, -9.1557935, Museu da Marioneta - museum
+439, 38.7101736, -9.1501831, Dear Lisbon - guest_house
+440, 38.7078315, -9.1546443, Mana Guest House - guest_house
+441, 38.7103382, -9.1504609, atelier Re.al - gallery
+442, 38.7061616, -9.1573639, Kab+1 - hostel
+443, 38.7078251, -9.1503654, Museu das Comunicações - museum
+446, 38.7082467, -9.1535640, Cheese & Wine - guest_house
+447, 38.7081599, -9.1538622, The Saints Suites - guest_house
+449, 38.7108247, -9.1516099, NowHere - gallery
+451, 38.7211943, -9.1518581, Lisbon Dreams - guest_house
+452, 38.7203379, -9.1507528, Altis Prime - apartment
+455, 38.7164611, -9.1548050, Unknown - guest_house
+456, 38.7156206, -9.1518164, Unknown - picnic_site
+457, 38.7158484, -9.1582997, Museu João de Deus - museum
+459, 38.7196530, -9.1563937, The Postcard Lisbon - guest_house
+460, 38.7209115, -9.1562268, Lisbon Economy Guest Houses - Old Town I - hostel
+462, 38.7182875, -9.1545148, Casa-Museu Mestre João da Silva - museum
+472, 38.7209475, -9.1501763, Altis Suites - apartment
+474, 38.7114641, -9.1501351, Vale 12 - 3 - guest_house
+475, 38.7148574, -9.1554436, Back to Lisbon - hostel
+476, 38.7192555, -9.1558216, Wallis São Bento - guest_house
+483, 38.7143508, -9.1510381, Flores Guesthouse - guest_house
+485, 38.7168245, -9.1536624, Jardim de São Mamede - apartment
+486, 38.7163059, -9.1532849, Jardim de São Mamede - apartment
+487, 38.7207839, -9.1541578, Galeria 36 - gallery
+493, 38.7291812, -9.1542483, Unknown - viewpoint
+499, 38.7300080, -9.1500065, Residencial Horizonte - guest_house
+500, 38.7298291, -9.1498563, Unknown - apartment
+502, 38.7222374, -9.1557697, Museu Arpad Szenes - Vieira da Silva - museum
+519, 38.7235260, -9.1524506, Castilho - guest_house
+539, 38.7309418, -9.1507371, Music Hall Lisbon Hostel - hostel
+540, 38.7291121, -9.1553312, Unknown - viewpoint
+542, 38.7224418, -9.1549651, MOVART - gallery
+545, 38.7234160, -9.1507480, Lisbon Apartaments - apartment
+546, 38.7275353, -9.1560251, Remarkable Treasures Art Gallery - gallery
+547, 38.7214023, -9.1558038, Museu da Água - museum
+552, 38.7384079, -9.1510308, Unknown - guest_house
+554, 38.7318890, -9.1516104, Santos Hostel - hostel
+555, 38.7376192, -9.1554468, Unknown - picnic_site
+570, 38.7392489, -9.1554397, Unknown - apartment
+571, 38.7394048, -9.1552340, Unknown - apartment
+572, 38.7319283, -9.1515108, Hostel Lisbon Forever - hostel
+573, 38.7328859, -9.1498011, The Swallow Hostel - hostel
+580, 38.7315428, -9.1517934, For.ever Art Gallery - gallery
+581, 38.7393265, -9.1554852, Unknown - apartment
+582, 38.7385784, -9.1545691, Galeria Resistência - gallery
+591, 38.7477672, -9.1504703, Unknown - guest_house
+601, 38.7588988, -9.1541470, Museu Bordalo Pinheiro - museum
+602, 38.7570448, -9.1539243, Unknown - picnic_site
+641, 38.7946805, -9.1562899, Unknown - viewpoint
+643, 38.7085440, -9.1443460, Lisbon Hostel - hostel
+646, 38.7109203, -9.1435590, Farids House - guest_house
+647, 38.7082595, -9.1440906, Lost Inn Lisbon - hostel
+648, 38.7099104, -9.1410146, Shiado Hostel - hostel
+649, 38.7067394, -9.1425585, Lost Lisbon - guest_house
+650, 38.7081293, -9.1450420, Lisbon Calling Hostel - hostel
+653, 38.7089976, -9.1446512, Lisbon Old Town Hostel - hostel
+654, 38.7088902, -9.1398189, Miradouro da Academia das Belas Artes - viewpoint
+655, 38.7100683, -9.1472474, Museu da Farmácia Lisboa - museum
+657, 38.7112209, -9.1440578, Lisbons Passion - guest_house
+668, 38.7096276, -9.1461500, Unknown - apartment
+678, 38.7108654, -9.1435700, Unknown - hostel
+680, 38.7085201, -9.1399313, Feels Like Home - hostel
+681, 38.7103634, -9.1402330, Lost Lisbon - guest_house
+683, 38.7077748, -9.1437837, Boho Guesthouse - hostel
+685, 38.7070006, -9.1420581, Corpo Santo 6 - apartment
+686, 38.7096432, -9.1474160, Unknown - viewpoint
+688, 38.7149846, -9.1440663, Miradouro de São Pedro de Alcântara - viewpoint
+689, 38.7131073, -9.1497546, Museu Geológico - museum
+694, 38.7155620, -9.1460153, Pensão Londres - guest_house
+696, 38.7144807, -9.1443705, Lookout Lisbon Hostel - hostel
+697, 38.7148798, -9.1445992, The Independente Hostel & Suites - hostel
+700, 38.7118704, -9.1421435, Teatro B&B - guest_house
+703, 38.7165683, -9.1436273, Lisbonaire - hostel
+706, 38.7129331, -9.1437981, Residência do Norte - hostel
+707, 38.7131273, -9.1400227, DownTown - guest_house
+710, 38.7154882, -9.1406640, Restauradores 72 Apartment - guest_house
+713, 38.7163703, -9.1407846, Residencial Florescente - guest_house
+714, 38.7191198, -9.1413288, Miradouro do Torel - viewpoint
+716, 38.7131925, -9.1447229, Museu Maçónico Português - museum
+717, 38.7164899, -9.1406519, Unknown - apartment
+718, 38.7166105, -9.1407571, Museu da Sociedade de Geografia de Lisboa - museum
+719, 38.7147614, -9.1449178, Globo - guest_house
+721, 38.7120060, -9.1405862, Museu Arqueológico do Carmo - museum
+722, 38.7155622, -9.1421740, Museu Nacional do Desporto - museum
+723, 38.7122726, -9.1407119, Museu Guarda Nacional Republicana - museum
+724, 38.7131790, -9.1495621, Museu Maynense - museum
+725, 38.7208511, -9.1486381, Cinemateca Portuguesa - Museu do Cinema - museum
+726, 38.7127206, -9.1473634, Museu da Liga dos Combatentes (Núcleo da Sede Social) - museum
+731, 38.7137914, -9.1444327, BA17-1 - guest_house
+732, 38.7114739, -9.1442193, Cozy Penthouse in Biarro Alto - apartment
+733, 38.7133418, -9.1442130, Your Lisbon Home Bairro Alto - apartment
+739, 38.7123260, -9.1433529, Alface Hostel - hostel
+742, 38.7146935, -9.1474733, Hub New Lisbon Hostel - hostel
+745, 38.7164960, -9.1445072, Hola Lisbon Suites - apartment
+746, 38.7176589, -9.1416606, Downtown Boutique Duplex - apartment
+759, 38.7157515, -9.1409573, Good Morning Hostel - hostel
+760, 38.7144796, -9.1408375, Lisbon Destination Hostel - hostel
+761, 38.7143240, -9.1443603, B.A. Hostel - hostel
+762, 38.7136807, -9.1401147, Rossio Hostel - hostel
+763, 38.7148924, -9.1492424, Royal Prince Hostel - hostel
+768, 38.7198736, -9.1437228, Airbnb - guest_house
+769, 38.7136484, -9.1468235, Casa das Janelas - guest_house
+771, 38.7162652, -9.1403109, Lx Flowers Apartments - apartment
+774, 38.7273440, -9.1421645, Residencial João XXI - guest_house
+776, 38.7302995, -9.1477415, Pousada de Juventude de Lisboa - hostel
+779, 38.7240265, -9.1459690, Residencial Dublin - guest_house
+782, 38.7247948, -9.1436994, Residencial Aleluia - guest_house
+783, 38.7292801, -9.1407716, City Hostel Lisbon - hostel
+784, 38.7236101, -9.1433820, Lisbon Chillout Hostel - hostel
+786, 38.7234029, -9.1458196, Livin Lisbon Hostel - hostel
+788, 38.7259942, -9.1440505, Tim  s Place - guest_house
+797, 38.7224207, -9.1472183, Unknown - yes
+798, 38.7257631, -9.1446497, Universo Romântico - guest_house
+799, 38.7216803, -9.1491450, Museu Medeiros e Almeida - museum
+806, 38.7279236, -9.1449879, VIP Executive Marquês Aparthotel - apartment
+807, 38.7272478, -9.1438498, Caravela - guest_house
+815, 38.7276647, -9.1489056, Guest House Lisbon - hostel
+816, 38.7262135, -9.1484700, Hype Lisbon Hostel - hostel
+817, 38.7262350, -9.1484881, Lisbon World Hostel - hostel
+818, 38.7262224, -9.1484794, Daizy Guest House - hostel
+819, 38.7244933, -9.1469285, Urban Garden Hostel - hostel
+820, 38.7293711, -9.1494179, Lisbon TOP Hostel - hostel
+821, 38.7217877, -9.1462019, New Lisbon Concept Hostel - hostel
+822, 38.7271172, -9.1480159, Lisbon Metropolitan Flat - apartment
+826, 38.7243808, -9.1471741, Unknown - apartment
+827, 38.7261939, -9.1472057, Blue House - apartment
+836, 38.7319311, -9.1482310, Hans Brinker Hostel Lisbon - hostel
+837, 38.7324781, -9.1459160, A Ponte - guest_house
+838, 38.7314946, -9.1399665, Be Lisbon Hostel - hostel
+845, 38.7314130, -9.1480359, Hub Lisbon Patio Hostel - hostel
+846, 38.7369884, -9.1486480, My Hostel Lisbon - hostel
+849, 38.7354968, -9.1448649, nest house - hostel
+850, 38.7344756, -9.1430054, Metro Hostel - hostel
+852, 38.7350714, -9.1431470, Chalet dÁvila Guest House - guest_house
+853, 38.7338252, -9.1488918, Artview - gallery
+854, 38.7382315, -9.1443368, Henry - gallery
+856, 38.7336418, -9.1490645, Unknown - gallery
+860, 38.7424034, -9.1452303, Museu do Campo Pequeno - museum
+866, 38.7495541, -9.1425926, 4U Lisbons IV Guesthouse - guest_house
+867, 38.7513138, -9.1438115, Quandrum Galeria de Arte - gallery
+869, 38.7567784, -9.1423295, Fábrica 22 - theme_park
+870, 38.7670113, -9.1474770, Spotters area Lisbon Airport Arrivals (LPPT/LIS) - viewpoint
+871, 38.7616835, -9.1460076, Miradouro de Aviões - viewpoint
+872, 38.7800934, -9.1407159, Unknown - viewpoint
+875, 38.7108140, -9.1353570, Hostel 4U - hostel
+876, 38.7100521, -9.1375780, Travellers House - hostel
+877, 38.7096469, -9.1350920, Casas da Baixa - apartment
+879, 38.7077328, -9.1352861, Lisboa Story Center - museum
+883, 38.7111028, -9.1390699, Living Lounge Hostel - hostel
+884, 38.7091675, -9.1377091, Yes! Lisbon Hostel - hostel
+885, 38.7105652, -9.1361770, Home Lisbon Hostel - hostel
+887, 38.7094600, -9.1319052, Pensão S. João da Praça - hostel
+892, 38.7113235, -9.1375784, Goodnight Hostel - hostel
+895, 38.7099747, -9.1370415, Núcleo Arqueológico da Rua dos Correeiros (BCP) - museum
+896, 38.7101798, -9.1325527, Museu do Aljube - Resistência e Liberdade - museum
+900, 38.7105467, -9.1351172, Guest House Brazil-Africa - guest_house
+901, 38.7098409, -9.1368552, Central Downtown 5 Rooms - hostel
+903, 38.7085978, -9.1388894, Museu do Dinheiro - museum
+904, 38.7096578, -9.1302291, Palácio Vila Flor - guest_house
+905, 38.7067592, -9.1373654, Museu de Lisboa - Torreão Poente - museum
+911, 38.7107578, -9.1299559, Unknown - apartment
+912, 38.7104031, -9.1368552, Lisbon Lounge Hostel - hostel
+923, 38.7107926, -9.1351532, Downtown Délice Homing - apartment
+924, 38.7092639, -9.1313488, Unknown - apartment
+927, 38.7104976, -9.1364553, Artbeat Rooms - guest_house
+929, 38.7067083, -9.1337355, Centro Tejo - museum
+930, 38.7073187, -9.1351701, Centro Interpretativo da História do Bacalhau - museum
+936, 38.7094573, -9.1330642, NOW Bastidor Jovial - hostel
+937, 38.7145818, -9.1342890, Torre de São Lourenço - viewpoint
+939, 38.7121155, -9.1337350, Miradouro do Castelo de São Jorge - viewpoint
+941, 38.7186300, -9.1322560, Albergaria Senhora do Monte - guest_house
+942, 38.7130847, -9.1373896, Pensão Residencial Norte - guest_house
+943, 38.7120003, -9.1389994, Golden Tram 242 LISBONne Hostel - hostel
+944, 38.7121230, -9.1352203, Miradouro do Mercado do Chão do Loureiro - viewpoint
+950, 38.7210477, -9.1352475, Portugal Ways Culture Guest House - hostel
+951, 38.7139083, -9.1370505, Chiado - hostel
+952, 38.7143224, -9.1376797, Pensão Praça da Figueira - guest_house
+953, 38.7123092, -9.1358679, INN POSSIBLE Lisbon Hostel - hostel
+956, 38.7157050, -9.1310709, Johnnys place - hostel
+960, 38.7128188, -9.1390056, Rossio Apartments - guest_house
+961, 38.7139574, -9.1370775, Pensão Iberica - hostel
+963, 38.7173809, -9.1364209, guest house - guest_house
+969, 38.7120861, -9.1397031, Miradouro do Carmo - viewpoint
+970, 38.7142196, -9.1378069, Hospital de Bonecas - museum
+971, 38.7145323, -9.1356707, Unknown - guest_house
+973, 38.7208117, -9.1353205, Next Hostel - hostel
+976, 38.7164161, -9.1369113, Era Uma Vez Em Lisboa - guest_house
+977, 38.7114303, -9.1339025, Unknown - viewpoint
+978, 38.7124533, -9.1370225, Vistas de Lisboa - hostel
+979, 38.7162531, -9.1397928, Museu da Sociedade de Geografia de Lisboa - museum
+985, 38.7182221, -9.1339694, Unknown - picnic_site
+987, 38.7123462, -9.1303665, Miradouro das Portas do Sol - viewpoint
+988, 38.7129910, -9.1342100, Miradouro do Castelo de São Jorge - viewpoint
+989, 38.7117413, -9.1302160, Miradouro de Santa Luzia - viewpoint
+994, 38.7149920, -9.1352961, Typical Mouraria - guest_house
+997, 38.7131223, -9.1361829, Downtown Charming Apartment - guest_house
+998, 38.7174032, -9.1387288, Calçada de Santana 164 - apartment
+1011, 38.7148083, -9.1323556, Unknown - viewpoint
+1014, 38.7160063, -9.1373722, Unknown - viewpoint
+1017, 38.7177936, -9.1345013, Mouraria Apartments von Sergio - guest_house
+1018, 38.7131174, -9.1370301, We Love F****** Tourists - hostel
+1019, 38.7121745, -9.1395433, 5 Sins Chiado Hostel - hostel
+1020, 38.7153593, -9.1380031, Welcome Hostel - guest_house
+1021, 38.7153691, -9.1396287, Casa de Hóspedes Modelo - hostel
+1023, 38.7128229, -9.1316397, Unknown - viewpoint
+1028, 38.7116948, -9.1377119, New Aljubarrota Guesthouse - guest_house
+1032, 38.7123086, -9.1340945, Unknown - viewpoint
+1033, 38.7148667, -9.1372429, Baixa Guest house - guest_house
+1034, 38.7259952, -9.1351979, Sete Colinas - guest_house
+1035, 38.7226272, -9.1337866, Hotel Anjos - guest_house
+1039, 38.7227483, -9.1383144, Thirtyhome - guest_house
+1041, 38.7281413, -9.1338055, Cidade Room Lisboa - guest_house
+1042, 38.7261700, -9.1341782, We Love Hostel - hostel
+1043, 38.7232937, -9.1366327, Casa do Conde - guest_house
+1044, 38.7292947, -9.1359602, Love Lisbon - hostel
+1045, 38.7239727, -9.1342480, Flag house - hostel
+1048, 38.7238107, -9.1321902, Sant Jordi Hostels Lisbon - hostel
+1049, 38.7246939, -9.1353023, Coutinho Apt - guest_house
+1052, 38.7261283, -9.1315193, Miradouro do Monte Agudo - viewpoint
+1053, 38.7308592, -9.1316419, Miradouro da Penha de França - viewpoint
+1054, 38.7309849, -9.1341830, Residencial O Paradouro - guest_house
+1056, 38.7218576, -9.1330694, Unknown - apartment
+1057, 38.7251343, -9.1352928, Lisbon Style - guest_house
+1060, 38.7236968, -9.1331048, Unique Lisbon Rooms - guest_house
+1061, 38.7237663, -9.1315623, Lisbon Poets Hostel - hostel
+1062, 38.7272636, -9.1346503, Seven Hills Hostel - hostel
+1064, 38.7295885, -9.1311058, Wanderful Homes Lisbon - apartment
+1065, 38.7249537, -9.1346907, LX History Rooms - Hotel - guest_house
+1066, 38.7249797, -9.1348240, Istanbul Hostel - guest_house
+1068, 38.7305800, -9.1389914, ZABRA - gallery
+1069, 38.7216473, -9.1355653, Hostel 15 - hostel
+1070, 38.7222238, -9.1365896, We Hate F Tourists - hostel
+1071, 38.7214416, -9.1352454, Be Lisbon - hostel
+1075, 38.7386029, -9.1350978, Mini Hostel in Lisbon - hostel
+1085, 38.7334825, -9.1352059, Rooms Fado Guest House - guest_house
+1086, 38.7326371, -9.1358319, Lisbon Guesthouse - guest_house
+1090, 38.7332186, -9.1320339, Be My Guest Lisboa Hostel - hostel
+1091, 38.7330841, -9.1324487, 7 Mares - guest_house
+1092, 38.7334111, -9.1338008, Aykibom Hostel - hostel
+1094, 38.7420258, -9.1340375, Lar do Areeiro - guest_house
+1099, 38.7481576, -9.1298980, Unknown - picnic_site
+1103, 38.7580577, -9.1317356, Unknown - viewpoint
+1104, 38.7575467, -9.1334892, Unknown - viewpoint
+1106, 38.7612417, -9.1301376, Terminus - guest_house
+1107, 38.7551274, -9.1394148, Alvalade II Guest House - guest_house
+1108, 38.7605674, -9.1324830, Unknown - picnic_site
+1109, 38.7594601, -9.1364657, 4U Lisbon II Guest House - guest_house
+1112, 38.7105290, -9.1278351, Caravel on Wheels Shore Excursion Stop - Jardim Tabaco - New Cruise Terminal - city_tour_bus_stop
+1113, 38.7100545, -9.1294713, Alfama Charming Apartments - apartment
+1122, 38.7144052, -9.1228523, Residência Oliveira - guest_house
+1123, 38.7133960, -9.1255931, Alfama 1 bedroom apartment - apartment
+1125, 38.7126279, -9.1284038, Portugal Ways Alfama River Apartments - guest_house
+1126, 38.7131580, -9.1289109, Alfama Patio Apartments - apartment
+1128, 38.7148171, -9.1278805, Museu de São Vicente de Fora - museum
+1129, 38.7118801, -9.1290450, Apartamentos de Alfama - guest_house
+1132, 38.7120616, -9.1277293, Miradouro de Santo Estêvão - viewpoint
+1133, 38.7159027, -9.1235971, Miradouro do Jardim Botto Machado - viewpoint
+1134, 38.7167666, -9.1213070, Train hostel - hostel
+1135, 38.7119222, -9.1291840, Apartments - apartment
+1136, 38.7118075, -9.1275932, Unknown - apartment
+1145, 38.7128713, -9.1279943, Unknown - apartment
+1146, 38.7128431, -9.1282416, ! - apartment
+1147, 38.7142986, -9.1248120, Alfama - National Pantheon - apartment
+1148, 38.7114237, -9.1279995, petit LuSa - guest_house
+1155, 38.7119755, -9.1295394, Sao Vicente X - apartment
+1157, 38.7120822, -9.1249719, Museu do Lactário - museum
+1158, 38.7120060, -9.1296262, Unknown - apartment
+1159, 38.7119748, -9.1294763, Portas do Sol I - apartment
+1160, 38.7129283, -9.1283754, Alfama Yellow House - apartment
+1161, 38.7210484, -9.1230283, Unknown - apartment
+1162, 38.7274001, -9.1278700, Unknown - picnic_site
+1163, 38.7274015, -9.1279400, Unknown - picnic_site
+1164, 38.7274561, -9.1278635, Unknown - picnic_site
+1165, 38.7274568, -9.1279345, Unknown - picnic_site
+1166, 38.7290363, -9.1282866, Unknown - apartment
+1171, 38.7421900, -9.1279487, Galeria de Arte Beltrão Coelho - gallery
+1173, 38.7465434, -9.1263338, Unknown - viewpoint
+1174, 38.7447982, -9.1234553, Unknown - picnic_site
+1176, 38.7524941, -9.1285638, Unknown - viewpoint
+1177, 38.7516563, -9.1276712, Unknown - viewpoint
+1178, 38.7516799, -9.1273880, Unknown - viewpoint
+1184, 38.7186476, -9.1195780, Miradouro de Nossa Senhora da Porciúncula - viewpoint
+1188, 38.7588255, -9.1180059, Coleção Museológica de Rádio e de Televisão - museum
+1194, 38.7335218, -9.1062064, Beatus Sweet Rooms - guest_house
+1195, 38.7462096, -9.1001744, Galeria Underdogs - gallery
+1201, 38.7752091, -9.1037784, Unknown - chalet
+1202, 38.7765709, -9.1004766, Oriente DNA Studios - apartment
+1203, 38.7927812, -9.1078076, дом - guest_house
+1215, 38.7604003, -9.0956036, Unknown - apartment
+1250, 38.7756565, -9.0930031, River Front Apt - apartment
+1252, 38.7780717, -9.0985290, Pousada de Juventude do Parque das Nações (HI) - hostel

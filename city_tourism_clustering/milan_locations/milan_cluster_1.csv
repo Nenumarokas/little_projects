@@ -1,0 +1,513 @@
+id,x_coord,y_coord,name
+1, 45.4341230, 9.0595637, Unknown - information
+7, 45.4695438, 9.0997269, Unknown - information
+9, 45.5219111, 9.0935264, Unknown - information
+11, 45.5200746, 9.0996512, ONU - information
+12, 45.5203256, 9.0988096, ONU - information
+13, 45.5204550, 9.0937873, ONU - information
+14, 45.5207365, 9.0929240, ONU - information
+15, 45.5209795, 9.0970395, ONU - information
+16, 45.5218816, 9.0940153, ONU - information
+17, 45.5221578, 9.0991614, Info disabilità - information
+19, 45.4630729, 9.1021836, Mappa del Parco delle Cave - information
+23, 45.4877360, 9.1035810, Unknown - information
+25, 45.5195177, 9.1013595, Unknown - information
+29, 45.5173316, 9.1079963, ONU - information
+30, 45.5197132, 9.1102442, ONU - information
+31, 45.5198197, 9.1093049, ONU - information
+32, 45.5198653, 9.1030881, ONU - information
+33, 45.5201507, 9.1017524, ONU - information
+34, 45.4520128, 9.1175179, Unknown - information
+38, 45.5181686, 9.1119708, ONU - information
+39, 45.5187507, 9.1112758, ONU - information
+40, 45.5171148, 9.1126440, Unknown - information
+53, 45.4854985, 9.1408218, Unknown - information
+54, 45.4855836, 9.1404205, Unknown - information
+55, 45.4856192, 9.1401199, Unknown - information
+56, 45.4855866, 9.1400339, Unknown - information
+57, 45.4856741, 9.1397177, Unknown - information
+58, 45.4857465, 9.1393389, Unknown - information
+59, 45.4858513, 9.1389305, Unknown - information
+60, 45.4858468, 9.1387089, Unknown - information
+61, 45.4859589, 9.1388175, Unknown - information
+62, 45.4859973, 9.1388340, Unknown - information
+63, 45.4860090, 9.1385674, Unknown - information
+64, 45.4860324, 9.1380206, Unknown - information
+65, 45.4864100, 9.1368552, Unknown - information
+66, 45.4863616, 9.1371267, Unknown - information
+67, 45.4862253, 9.1374588, Unknown - information
+68, 45.4861529, 9.1379220, Unknown - information
+70, 45.4884755, 9.1372612, Unknown - information
+71, 45.4884919, 9.1371150, Unknown - information
+72, 45.4884754, 9.1369685, Unknown - information
+73, 45.4884999, 9.1360152, Unknown - information
+74, 45.4898405, 9.1364539, Unknown - information
+75, 45.4902312, 9.1361294, Unknown - information
+76, 45.4905702, 9.1360468, Unknown - information
+77, 45.4913440, 9.1360064, Unknown - information
+78, 45.4914494, 9.1358652, Unknown - information
+79, 45.4915855, 9.1356613, Unknown - information
+80, 45.4917979, 9.1352586, Unknown - information
+81, 45.4920279, 9.1348420, Unknown - information
+82, 45.4916499, 9.1322148, Unknown - information
+83, 45.4902430, 9.1335014, Unknown - information
+84, 45.4908360, 9.1330945, Unknown - information
+85, 45.4898407, 9.1346684, Unknown - information
+86, 45.4925994, 9.1332128, Unknown - information
+87, 45.4923163, 9.1340941, Unknown - information
+88, 45.4886329, 9.1357494, Unknown - information
+89, 45.4885314, 9.1359435, Unknown - information
+90, 45.4885440, 9.1358621, Unknown - information
+91, 45.4884232, 9.1362329, Unknown - information
+92, 45.4884630, 9.1363982, Unknown - information
+93, 45.4884571, 9.1364354, Unknown - information
+94, 45.4883668, 9.1366084, Unknown - information
+95, 45.4884921, 9.1375844, Unknown - information
+96, 45.4885278, 9.1377198, Unknown - information
+97, 45.4885205, 9.1378928, Unknown - information
+98, 45.4884040, 9.1378710, Unknown - information
+99, 45.4880490, 9.1376642, Unknown - information
+100, 45.4876979, 9.1375257, Unknown - information
+101, 45.4868277, 9.1370630, Unknown - information
+102, 45.4893507, 9.1363294, Unknown - information
+103, 45.4890611, 9.1360907, Unknown - information
+104, 45.4887396, 9.1358145, Unknown - information
+106, 45.5026519, 9.1397136, Unknown - information
+115, 45.4736406, 9.1503721, Casa in Via Domenichino - information
+124, 45.4793469, 9.1457105, San Siro alla Vepra - information
+127, 45.4834520, 9.1427674, Unknown - information
+128, 45.4836109, 9.1424301, Unknown - information
+129, 45.4836751, 9.1422850, Unknown - information
+130, 45.4838834, 9.1423524, Unknown - information
+131, 45.4841102, 9.1424625, Unknown - information
+132, 45.4843493, 9.1426098, Unknown - information
+133, 45.4847884, 9.1428033, Unknown - information
+134, 45.4848492, 9.1428522, Unknown - information
+135, 45.4849623, 9.1428459, Unknown - information
+136, 45.4851315, 9.1424435, Unknown - information
+137, 45.4852557, 9.1420804, Unknown - information
+138, 45.4853469, 9.1418280, Unknown - information
+139, 45.4854888, 9.1414277, Unknown - information
+140, 45.4855612, 9.1410770, Unknown - information
+141, 45.4807879, 9.1466184, Unknown - information
+142, 45.4811871, 9.1460538, Unknown - information
+143, 45.4812901, 9.1458392, Unknown - information
+144, 45.4820935, 9.1448569, Unknown - information
+145, 45.4826302, 9.1440847, Unknown - information
+146, 45.4828954, 9.1437856, Unknown - information
+147, 45.4831474, 9.1434899, Unknown - information
+148, 45.4780418, 9.1501878, Unknown - information
+149, 45.4784575, 9.1496625, Unknown - information
+150, 45.4791405, 9.1487352, Unknown - information
+151, 45.4794279, 9.1483603, Unknown - information
+152, 45.4800009, 9.1476335, Unknown - information
+153, 45.4803417, 9.1471764, Unknown - information
+184, 45.4702418, 9.1549265, Casa di riposo per musicisti Giuseppe Verdi - information
+195, 45.4778880, 9.1524869, Unknown - information
+196, 45.4779176, 9.1510794, Unknown - information
+204, 45.5020560, 9.1593379, Campus Politecnico Milano Bovisa - information
+205, 45.5008720, 9.1548481, Unknown - information
+206, 45.5209251, 9.1515975, Mappa del "Pioppeto di Bovisasca" - information
+224, 45.4646386, 9.1664077, Palazzo Borletti - information
+228, 45.4662916, 9.1704104, Piazza Santa Maria delle Grazie - information
+231, 45.4630880, 9.1708186, Museo della Scienza e della Tecnologia - information
+233, 45.4648168, 9.1685602, Casa e Studio Portaluppi - information
+244, 45.4714434, 9.1704683, Torre al Parco - information
+245, 45.4722221, 9.1676138, Unknown - information
+246, 45.4757212, 9.1687273, Unknown - information
+247, 45.4756787, 9.1685997, Unknown - information
+248, 45.4756731, 9.1681942, Unknown - information
+249, 45.4758276, 9.1656987, Unknown - information
+250, 45.4758359, 9.1655837, Unknown - information
+251, 45.4758154, 9.1650619, Unknown - information
+252, 45.4758547, 9.1647365, Unknown - information
+253, 45.4761419, 9.1643882, Unknown - information
+254, 45.4764598, 9.1646682, Unknown - information
+255, 45.4763513, 9.1623200, Unknown - information
+256, 45.4766772, 9.1616844, Unknown - information
+257, 45.4809976, 9.1701744, Unknown - information
+262, 45.4810023, 9.1701368, Unknown - information
+265, 45.4809887, 9.1661972, Casa Rustici - information
+266, 45.4770505, 9.1665767, Casa in Via Randaccio - information
+267, 45.4767413, 9.1647826, Unknown - information
+268, 45.4770504, 9.1647286, Unknown - information
+269, 45.4771894, 9.1646184, Unknown - information
+270, 45.4772988, 9.1645632, Unknown - information
+271, 45.4773937, 9.1645014, Unknown - information
+272, 45.4778171, 9.1643622, Unknown - information
+273, 45.4777588, 9.1642951, Unknown - information
+274, 45.4775524, 9.1641901, Unknown - information
+275, 45.4772457, 9.1637092, Unknown - information
+276, 45.4769068, 9.1632116, Unknown - information
+277, 45.4768216, 9.1610377, Unknown - information
+278, 45.4825977, 9.1641256, Unknown - information
+279, 45.4825886, 9.1641284, Unknown - information
+280, 45.4832420, 9.1651417, Unknown - information
+281, 45.4830529, 9.1655586, Unknown - information
+282, 45.4828155, 9.1657442, Unknown - information
+283, 45.4825557, 9.1666827, Unknown - information
+284, 45.4825478, 9.1663287, Unknown - information
+285, 45.4826833, 9.1663846, Unknown - information
+286, 45.4817448, 9.1679636, Unknown - information
+287, 45.4817445, 9.1679443, Unknown - information
+288, 45.4814772, 9.1691578, Unknown - information
+289, 45.4810188, 9.1681586, Unknown - information
+290, 45.4811839, 9.1686856, Unknown - information
+291, 45.4810175, 9.1681429, Unknown - information
+292, 45.4805496, 9.1694422, Unknown - information
+293, 45.4808202, 9.1698336, Unknown - information
+294, 45.4811346, 9.1699775, Unknown - information
+295, 45.4808294, 9.1704960, Unknown - information
+307, 45.5044855, 9.1657620, Unknown - information
+345, 45.4660604, 9.1760738, Unknown - information
+346, 45.4658058, 9.1785470, Palazzo Litta - information
+347, 45.4656675, 9.1711430, Casa degli Atellani - information
+348, 45.4656722, 9.1723580, Palazzo delle Stelline - information
+349, 45.4656708, 9.1788545, San Maurizio al Monastero Maggiore - information
+350, 45.4657734, 9.1795331, Casa Rossi - information
+351, 45.4656755, 9.1783704, Zona Magenta - information
+352, 45.4636392, 9.1781250, Sede Società Filatura Cascami Seta - information
+353, 45.4640815, 9.1801990, Il Circo Romano - information
+354, 45.4611677, 9.1798825, Il Circo Romano - information
+355, 45.4606424, 9.1789457, Palazzo Visconti - information
+356, 45.4604834, 9.1784468, San Bernardino alle Monache - information
+357, 45.4610553, 9.1756667, SantAgostino - information
+358, 45.4665512, 9.1769233, San Nicolao - information
+359, 45.4652561, 9.1803981, Palazzo Imperiale - information
+360, 45.4655834, 9.1803777, Via Meravigli - information
+361, 45.4650830, 9.1791080, Il Circo Romano - information
+363, 45.4652222, 9.1791724, Chiostro gotico del Monastero Maggiore - information
+364, 45.4623891, 9.1745402, Casa Caccia Dominioni - information
+365, 45.4635423, 9.1759805, Tempio della Vittoria - information
+367, 45.4620768, 9.1747132, SantAmbrogio - information
+368, 45.4635649, 9.1762836, Ex Caserma dei Veliti - information
+369, 45.4632502, 9.1761260, Cortile della Canonica di SantAmbrogio - information
+370, 45.4624700, 9.1735800, Castello Cova - information
+371, 45.4629861, 9.1768880, Università Cattolica del Sacro Cuore - information
+372, 45.4632460, 9.1726600, Case in via De Togni - information
+374, 45.4578090, 9.1737100, San Vincenzo in Prato - information
+391, 45.4680344, 9.1763340, ATM Point - information
+397, 45.4678275, 9.1765563, Unknown - information
+400, 45.4696266, 9.1792707, Unknown - information
+401, 45.4685298, 9.1768804, Unknown - information
+403, 45.4753523, 9.1735450, Unknown - information
+404, 45.4751858, 9.1718029, Unknown - information
+405, 45.4748764, 9.1728154, Unknown - information
+407, 45.4705421, 9.1763060, Parco Sempione - information
+408, 45.4713704, 9.1744137, Parco Sempione - information
+409, 45.4706786, 9.1808352, Ponticella di Ludovico il Moro - information
+410, 45.4706409, 9.1808775, Castello Sforzesco - information
+411, 45.4696154, 9.1806187, Unknown - information
+412, 45.4697001, 9.1804102, Unknown - information
+414, 45.4733209, 9.1800240, Parco Sempione - information
+415, 45.4762042, 9.1730610, Unknown - information
+418, 45.4712282, 9.1784029, Unknown - information
+419, 45.4713313, 9.1782698, Unknown - information
+420, 45.4718342, 9.1781509, Unknown - information
+421, 45.4724925, 9.1787521, Unknown - information
+422, 45.4726042, 9.1785654, Unknown - information
+423, 45.4733493, 9.1782723, Unknown - information
+424, 45.4736959, 9.1779603, Unknown - information
+425, 45.4742244, 9.1777427, Unknown - information
+426, 45.4743951, 9.1775612, Unknown - information
+427, 45.4748355, 9.1767860, Unknown - information
+428, 45.4752298, 9.1757837, Unknown - information
+429, 45.4753895, 9.1751553, Unknown - information
+430, 45.4754488, 9.1747685, Unknown - information
+431, 45.4755196, 9.1739505, Unknown - information
+432, 45.4756332, 9.1716006, Unknown - information
+433, 45.4756624, 9.1713887, Unknown - information
+440, 45.4787515, 9.1751098, Unknown - information
+441, 45.4788525, 9.1752260, Unknown - information
+442, 45.4809976, 9.1701744, Unknown - information
+447, 45.4805895, 9.1748735, Unknown - information
+448, 45.4781357, 9.1805094, Unknown - information
+449, 45.4773778, 9.1807213, Unknown - information
+450, 45.4780972, 9.1709554, Convento di SantAmbrogio ad Nemus - information
+455, 45.4808294, 9.1704960, Unknown - information
+456, 45.4810730, 9.1725652, Unknown - information
+457, 45.4810793, 9.1732669, Unknown - information
+458, 45.4804925, 9.1738599, Unknown - information
+459, 45.4805315, 9.1739403, Unknown - information
+460, 45.4805718, 9.1748612, Unknown - information
+461, 45.4800010, 9.1761818, Unknown - information
+462, 45.4799066, 9.1747873, Unknown - information
+463, 45.4788296, 9.1762308, Unknown - information
+464, 45.4788148, 9.1746146, Unknown - information
+465, 45.4789497, 9.1750613, Unknown - information
+466, 45.4789535, 9.1749011, Unknown - information
+467, 45.4789449, 9.1750702, Unknown - information
+468, 45.4789491, 9.1748862, Unknown - information
+469, 45.4798165, 9.1729112, Unknown - information
+470, 45.4797797, 9.1728858, Unknown - information
+471, 45.4796865, 9.1731332, Unknown - information
+472, 45.4793149, 9.1729386, Unknown - information
+473, 45.4802457, 9.1712988, Unknown - information
+474, 45.4803170, 9.1711248, Unknown - information
+475, 45.4803781, 9.1715143, Unknown - information
+476, 45.4803722, 9.1713622, Unknown - information
+477, 45.4803754, 9.1713793, Unknown - information
+525, 45.4660686, 9.1849012, Casa Broggi - information
+526, 45.4658295, 9.1838121, Palazzo Turati - information
+533, 45.4665820, 9.1899808, Galleria Vittorio Emanuele II - information
+534, 45.4648624, 9.1874509, Palazzo della Ragione - information
+536, 45.4644166, 9.1878928, Piazza dei Mercanti - information
+540, 45.4648389, 9.1883724, Palazzo dei Giureconsulti - information
+541, 45.4646574, 9.1896142, Unknown - information
+546, 45.4590023, 9.1871660, Palazzo Recalcati Prinetti - information
+547, 45.4610901, 9.1865525, SantAlessandro - information
+548, 45.4636378, 9.1861099, Palazzo dellAmbrosiana - information
+549, 45.4629902, 9.1853106, Piazza San Sepolcro - information
+551, 45.4650407, 9.1835323, Piazza Affari - information
+552, 45.4651328, 9.1826954, Teatro Romano - information
+553, 45.4625396, 9.1811290, Pavimento di epoca romana - information
+555, 45.4635517, 9.1828423, Piazza Borromeo - information
+556, 45.4653191, 9.1812886, Santa Maria alla Porta - information
+557, 45.4657479, 9.1827175, Palazzo Ercole Turati - information
+558, 45.4664816, 9.1847473, Palazzo Carmagnola - Piccolo Teatro - information
+559, 45.4654592, 9.1868676, Piazza Cordusio - information
+560, 45.4663866, 9.1847768, Unknown - information
+561, 45.4610487, 9.1815595, Museo Studio Francesco Messina - information
+562, 45.4642570, 9.1901143, ATM Point - information
+563, 45.4618257, 9.1875717, Palazzo Erba Odescalchi - information
+564, 45.4652030, 9.1875017, YESMILANO Tourism Space - information
+588, 45.4686783, 9.1845376, Palazzo Cagnola - information
+593, 45.4676338, 9.1855650, Unknown - information
+595, 45.4686090, 9.1813027, Unknown - information
+601, 45.4668681, 9.1895071, Piazza della Scala - information
+602, 45.4679229, 9.1906367, Palazzo Brentani - information
+603, 45.4672136, 9.1900157, Unknown - information
+604, 45.4722100, 9.1838453, Unknown - information
+606, 45.4740813, 9.1899283, Casa Fiocchi - information
+607, 45.4675638, 9.1821172, Santa Maria della Consolazione - information
+609, 45.4704957, 9.1854957, Santa Maria del Carmine - information
+610, 45.4670535, 9.1814160, Teatro Dal Verme - information
+611, 45.4679159, 9.1827424, Unknown - information
+614, 45.4668437, 9.1872230, Palazzo Clerici - information
+615, 45.4679950, 9.1854790, Edificio per abitazioni e uffici in via Broletto - information
+616, 45.4719638, 9.1856419, Quartiere Brera - information
+617, 45.4684088, 9.1889437, Chiesa di San Giuseppe - information
+618, 45.4686185, 9.1886379, Unknown - information
+619, 45.4726532, 9.1860026, Palazzo Crivelli - information
+620, 45.4766424, 9.1876656, Sede de Il Corriere della Sera - information
+621, 45.4749948, 9.1811183, Parco Sempione - information
+625, 45.4755800, 9.1838054, Unknown - information
+626, 45.4755730, 9.1838150, Unknown - information
+627, 45.4755623, 9.1836268, Unknown - information
+629, 45.4722494, 9.1874382, Unknown - information
+636, 45.4775948, 9.1846483, Mappa del Quadrilatero della Moda - information
+639, 45.4775941, 9.1848093, Via della Moscova / Largo La Foppa - information
+640, 45.4811051, 9.1870101, Unknown - information
+641, 45.4808512, 9.1898501, Ex Stazione Ferroviaria Milano Monza - information
+643, 45.4805608, 9.1870125, Unknown - information
+644, 45.4794108, 9.1862601, Chiesa di Santa Maria Incoronata - information
+649, 45.4800365, 9.1880167, Unknown - information
+650, 45.4801084, 9.1876436, Unknown - information
+651, 45.4802226, 9.1868275, Unknown - information
+652, 45.4793072, 9.1861223, Unknown - information
+653, 45.4777755, 9.1847652, Unknown - information
+654, 45.4775696, 9.1849458, Unknown - information
+655, 45.4774310, 9.1847424, Unknown - information
+656, 45.4807056, 9.1908364, Unknown - information
+657, 45.4807216, 9.1908306, Unknown - information
+658, 45.4801537, 9.1900125, Unknown - information
+659, 45.4800461, 9.1880304, Unknown - information
+660, 45.4798616, 9.1889203, Unknown - information
+671, 45.5246725, 9.1818368, Unknown - information
+681, 45.4550433, 9.1956505, Santa Maria al Paradiso - information
+691, 45.4659183, 9.1967355, Unknown - information
+700, 45.4643660, 9.1978432, Unknown - information
+705, 45.4610539, 9.1932481, Unknown - information
+706, 45.4610766, 9.1933672, Unknown - information
+709, 45.4650699, 9.2002730, Ponte delle Sirenette - information
+713, 45.4641791, 9.1928798, Palazzo della Veneranda Fabbrica - information
+714, 45.4654227, 9.1913654, San Raffaele - information
+715, 45.4665073, 9.1913956, San Fedele - information
+716, 45.4600512, 9.1958926, Giardino della Guastalla - information
+717, 45.4597111, 9.1987956, Santi Barnaba e Paolo - information
+719, 45.4633823, 9.1915335, Tourist Information Office - information
+721, 45.4608874, 9.1962244, Il Laghetto di Santo Stefano - information
+735, 45.4724732, 9.2002044, Unknown - information
+748, 45.4691084, 9.1942900, Palazzo Melzi di Cusano - information
+751, 45.4732595, 9.1960653, Unknown - information
+753, 45.4756183, 9.1945205, Unknown - information
+754, 45.4702281, 9.1928902, Unknown - information
+756, 45.4723293, 9.1949122, Unknown - information
+757, 45.4681792, 9.1909116, Palazzo Anguissola - information
+761, 45.4727297, 9.1952060, Unknown - information
+762, 45.4738969, 9.2007373, Unknown - information
+763, 45.4671116, 9.1920274, Casa degli Omenoni - information
+764, 45.4727171, 9.1916473, Casa a ville sovrapposte - information
+778, 45.4732687, 9.1996991, Unknown - information
+782, 45.4843224, 9.2004513, Unknown - information
+787, 45.4840350, 9.2002865, Unknown - information
+791, 45.4853014, 9.1930706, Porta Nuova Infopoint - information
+794, 45.4789074, 9.1969929, Piazza della Repubblica - Viale Monte Santo - information
+798, 45.4773231, 9.1957883, Unknown - information
+800, 45.4806003, 9.1910041, Cucine Economiche - information
+805, 45.4807056, 9.1908364, Unknown - information
+806, 45.4807216, 9.1908306, Unknown - information
+807, 45.4838053, 9.1984627, Unknown - information
+808, 45.4837783, 9.1982450, Unknown - information
+809, 45.4839716, 9.1976561, Unknown - information
+810, 45.4837811, 9.1975610, Unknown - information
+811, 45.4831024, 9.1949584, Unknown - information
+812, 45.4832031, 9.1950551, Unknown - information
+813, 45.4851698, 9.2013136, Unknown - information
+826, 45.4897390, 9.1962232, Santi Carlo e Vitale alle Abbadesse - information
+835, 45.5299983, 9.1979031, Parco Nord Milano - information
+836, 45.5324434, 9.1989127, Biodiversità - information
+852, 45.4650444, 9.2032734, Santa Maria della Passione - information
+853, 45.4650256, 9.2021645, Palazzo Archinto - information
+872, 45.4704593, 9.2034877, Palazzo Berri-Meregalli - information
+875, 45.4693609, 9.2034737, Casa Berri-Meregalli - information
+877, 45.4713552, 9.2020940, Unknown - information
+878, 45.4719801, 9.2020682, Unknown - information
+881, 45.4745275, 9.2069922, Casa Galimberti - information
+894, 45.4843224, 9.2004513, Unknown - information
+903, 45.4860542, 9.2059105, Informazione e Accoglienza Turistica Provincia di Milano - information
+909, 45.4856446, 9.2053993, Assistenza alla clientela - information
+911, 45.4856482, 9.2054758, Unknown - information
+912, 45.4859852, 9.2056868, Unknown - information
+913, 45.4861342, 9.2059610, Unknown - information
+914, 45.4861892, 9.2060215, Unknown - information
+915, 45.4845114, 9.2017821, Grattacielo Pirelli - information
+920, 45.4856780, 9.2088205, Palazzo Montedoria - information
+943, 45.4841279, 9.2037661, Unknown - information
+958, 45.4857153, 9.2051933, Freccia Lounge - information
+971, 45.4836029, 9.2042268, Unknown - information
+972, 45.4836008, 9.2042135, Unknown - information
+973, 45.4836886, 9.2040677, Unknown - information
+974, 45.4851698, 9.2013136, Unknown - information
+975, 45.4822760, 9.2066587, Unknown - information
+976, 45.4828595, 9.2055656, Unknown - information
+977, 45.4832873, 9.2047606, Unknown - information
+978, 45.4800265, 9.2108636, Unknown - information
+979, 45.4801806, 9.2106006, Unknown - information
+980, 45.4808787, 9.2092619, Unknown - information
+981, 45.4814794, 9.2081643, Unknown - information
+982, 45.4818276, 9.2075201, Unknown - information
+991, 45.4870791, 9.2040704, Unknown - information
+992, 45.4873565, 9.2043137, Unknown - information
+993, 45.4874726, 9.2044239, Unknown - information
+994, 45.4876051, 9.2045539, Unknown - information
+1003, 45.4868550, 9.2038058, Sala blu - information
+1011, 45.4879898, 9.2048264, Unknown - information
+1019, 45.5133804, 9.2075977, Mappa del Quartiere di Borgo Pirelli - information
+1021, 45.5207227, 9.2054693, Unknown - information
+1023, 45.5268681, 9.2035966, Unknown - information
+1042, 45.4655709, 9.2170619, Unknown - information
+1043, 45.4640046, 9.2176272, Unknown - information
+1044, 45.4640258, 9.2197211, Unknown - information
+1045, 45.4630791, 9.2199576, Unknown - information
+1046, 45.4641654, 9.2185210, Unknown - information
+1047, 45.4630723, 9.2199711, Unknown - information
+1048, 45.4630657, 9.2213850, Unknown - information
+1049, 45.4607045, 9.2201713, Unknown - information
+1050, 45.4610947, 9.2203733, Unknown - information
+1051, 45.4611301, 9.2201902, Unknown - information
+1052, 45.4610967, 9.2201907, Unknown - information
+1053, 45.4606515, 9.2176686, Unknown - information
+1054, 45.4666326, 9.2207222, Unknown - information
+1055, 45.4640333, 9.2204931, Unknown - information
+1056, 45.4649090, 9.2207180, Unknown - information
+1057, 45.4641885, 9.2207064, Unknown - information
+1058, 45.4641468, 9.2161615, Unknown - information
+1062, 45.4718208, 9.2169564, Unknown - information
+1063, 45.4718375, 9.2169443, Unknown - information
+1064, 45.4731840, 9.2168158, Unknown - information
+1065, 45.4731853, 9.2168023, Unknown - information
+1066, 45.4747136, 9.2169036, Unknown - information
+1067, 45.4747293, 9.2168907, Unknown - information
+1068, 45.4709237, 9.2169767, Unknown - information
+1069, 45.4709118, 9.2169633, Unknown - information
+1070, 45.4714067, 9.2169573, Unknown - information
+1071, 45.4714028, 9.2169700, Unknown - information
+1072, 45.4699613, 9.2169875, Unknown - information
+1073, 45.4692235, 9.2170002, Unknown - information
+1074, 45.4667208, 9.2170472, Unknown - information
+1075, 45.4667327, 9.2170599, Unknown - information
+1076, 45.4673550, 9.2170318, Unknown - information
+1077, 45.4681583, 9.2175588, Unknown - information
+1078, 45.4667355, 9.2176005, Unknown - information
+1079, 45.4692185, 9.2182585, Unknown - information
+1080, 45.4682696, 9.2198216, Unknown - information
+1081, 45.4681884, 9.2199258, Unknown - information
+1082, 45.4667698, 9.2206070, Unknown - information
+1083, 45.4678112, 9.2207035, Unknown - information
+1105, 45.4800968, 9.2111666, Unknown - information
+1106, 45.4800265, 9.2108636, Unknown - information
+1107, 45.4838007, 9.2134155, Unknown - information
+1108, 45.4836854, 9.2133947, Unknown - information
+1109, 45.4834681, 9.2138420, Unknown - information
+1110, 45.4831451, 9.2138806, Unknown - information
+1111, 45.4822617, 9.2130148, Unknown - information
+1112, 45.4815168, 9.2122770, Unknown - information
+1113, 45.4844588, 9.2155804, Unknown - information
+1114, 45.4844706, 9.2155756, Unknown - information
+1115, 45.4831678, 9.2146641, Unknown - information
+1116, 45.4838405, 9.2149371, Unknown - information
+1117, 45.4838195, 9.2149549, Unknown - information
+1118, 45.4839422, 9.2142121, Unknown - information
+1119, 45.4857034, 9.2164153, Unknown - information
+1120, 45.4849439, 9.2157593, Unknown - information
+1121, 45.4846823, 9.2156193, Unknown - information
+1128, 45.4910180, 9.2183778, Unknown - information
+1129, 45.4930163, 9.2189692, Unknown - information
+1130, 45.4912778, 9.2184714, Unknown - information
+1131, 45.4902855, 9.2181353, Unknown - information
+1132, 45.4902935, 9.2181261, Unknown - information
+1133, 45.4874236, 9.2172664, Unknown - information
+1134, 45.4961822, 9.2200278, Unknown - information
+1135, 45.4948126, 9.2195323, Unknown - information
+1136, 45.4940842, 9.2192962, Unknown - information
+1140, 45.5056290, 9.2203475, Unknown - information
+1141, 45.5055288, 9.2202912, Unknown - information
+1142, 45.5049119, 9.2196162, Unknown - information
+1144, 45.5130324, 9.2141853, Quartiere Bicocca - information
+1148, 45.5305589, 9.2114157, Unknown - information
+1149, 45.5324027, 9.2112763, Unknown - information
+1152, 45.4294400, 9.2262653, Sentiero dei Monaci - information
+1158, 45.4630723, 9.2199711, Unknown - information
+1159, 45.4666245, 9.2216027, Unknown - information
+1160, 45.4630767, 9.2214012, Unknown - information
+1161, 45.4630657, 9.2213850, Unknown - information
+1162, 45.4620129, 9.2220384, Unknown - information
+1163, 45.4622906, 9.2216746, Unknown - information
+1164, 45.4609182, 9.2220528, Unknown - information
+1165, 45.4622906, 9.2216746, Unknown - information
+1166, 45.4605072, 9.2220280, Unknown - information
+1167, 45.4608757, 9.2214221, Unknown - information
+1168, 45.4611301, 9.2201902, Unknown - information
+1169, 45.4619535, 9.2211059, Unknown - information
+1170, 45.4607962, 9.2235983, Unknown - information
+1171, 45.4607869, 9.2235844, Unknown - information
+1172, 45.4654630, 9.2222499, Unknown - information
+1173, 45.4666326, 9.2207222, Unknown - information
+1174, 45.4656257, 9.2223987, Unknown - information
+1175, 45.4649090, 9.2207180, Unknown - information
+1176, 45.4647998, 9.2213722, Unknown - information
+1187, 45.4678112, 9.2207035, Unknown - information
+1201, 45.4777636, 9.2228340, Unknown - information
+1219, 45.4785638, 9.2296324, Unknown - information
+1220, 45.4784768, 9.2295647, Unknown - information
+1242, 45.4160484, 9.2365445, Unknown - information
+1244, 45.4379629, 9.2403822, Unknown - information
+1246, 45.4752624, 9.2345501, Orto Botanico Città Studi - information
+1247, 45.4762735, 9.2315076, Unknown - information
+1256, 45.4767005, 9.2321644, Unknown - information
+1262, 45.5181561, 9.2399975, Unknown - information
+1264, 45.4351999, 9.2449776, Unknown - information
+1265, 45.4359457, 9.2458847, Unknown - information
+1266, 45.4387814, 9.2427495, Trapezietto - information
+1281, 45.4867087, 9.2425164, Unknown - information
+1285, 45.5096670, 9.2475957, Unknown - information
+1287, 45.5151787, 9.2412205, Unknown - information
+1288, 45.5209527, 9.2416780, Porta agricoltura - information
+1290, 45.4188871, 9.2603573, Unknown - information
+1291, 45.4271587, 9.2598163, Unknown - information
+1292, 45.4285982, 9.2573015, Unknown - information
+1293, 45.4283512, 9.2578442, Unknown - information
+1294, 45.4269020, 9.2596241, Parco Mattei - information
+1298, 45.5112496, 9.2539683, Unknown - information
+1303, 45.4679134, 9.2669162, Parco Forlanini - information

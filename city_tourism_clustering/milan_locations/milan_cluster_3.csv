@@ -1,0 +1,251 @@
+id,x_coord,y_coord,name
+3, 45.4402219, 9.0659831, Unknown - picnic_site
+10, 45.5213109, 9.0931031, Unknown - picnic_site
+18, 45.5218917, 9.1008601, Unknown - picnic_site
+20, 45.4750591, 9.1090276, Area picnic via Fratelli Zoia - picnic_site
+21, 45.4836835, 9.1050710, Cascina Bellaria - hostel
+22, 45.4922307, 9.1009396, Cascina Campi Rizzardi - attraction
+24, 45.5206680, 9.1071968, Albero della Vita - attraction
+26, 45.5176436, 9.1058028, Unknown - picnic_site
+27, 45.5180012, 9.1046952, Unknown - picnic_site
+28, 45.5193860, 9.1056562, Unknown - picnic_site
+37, 45.5174838, 9.1114712, Unknown - picnic_site
+42, 45.4736230, 9.1260358, B&B A San Siro 75 - guest_house
+43, 45.4751141, 9.1274892, B&B Luci a San Siro - guest_house
+44, 45.4772597, 9.1234593, Museo San Siro - museum
+45, 45.4446391, 9.1397297, Nuovorimessaggio - caravan_site
+48, 45.4649580, 9.1356317, Aparthotel Visconti - apartment
+51, 45.4837247, 9.1407647, Ostello Gioventù AIG Piero Rotta - hostel
+69, 45.4958686, 9.1313926, Casasofia - motel
+105, 45.5060143, 9.1359334, B&B La Corte del 26 - guest_house
+113, 45.4724487, 9.1508571, Mansarda MM1 - apartment
+117, 45.4761500, 9.1470053, Museo Popoli e Culture - museum
+118, 45.4810649, 9.1411572, Unknown - picnic_site
+125, 45.4855909, 9.1484207, Museo Mondo Milan - museum
+126, 45.4795364, 9.1455542, Abside di San Siro alla Vepra - attraction
+165, 45.4971137, 9.1457489, Star Hostel - hostel
+166, 45.5007700, 9.1508245, Unknown - apartment
+168, 45.4429038, 9.1550791, Navigliotel - guest_house
+178, 45.4639523, 9.1586724, Residence Cimarosa - apartment
+188, 45.4710341, 9.1549989, Residence Le Corti - apartment
+203, 45.4922432, 9.1535141, B&B Villa Emilia Milano - guest_house
+211, 45.4520455, 9.1613185, Mudec - museum
+212, 45.4515575, 9.1616625, Mudec - Museo delle Culture - gallery
+215, 45.4544732, 9.1686970, Experience Design - guest_house
+216, 45.4538918, 9.1627957, Tortona52 - guest_house
+218, 45.4521943, 9.1625287, Museo del Teatro di Figura - museum
+220, 45.4662047, 9.1706550, Museo del Cenacolo Vinciano - museum
+223, 45.4614614, 9.1704138, Unknown - picnic_site
+225, 45.4617444, 9.1707094, Unknown - attraction
+226, 45.4617049, 9.1706583, Unknown - attraction
+227, 45.4656506, 9.1708298, Vigna di Leonardo - museum
+230, 45.4632938, 9.1659848, Suitime Milano - guest_house
+234, 45.4653115, 9.1625306, B&B Annabel - guest_house
+236, 45.4645564, 9.1659927, La Cordata accomodation - apartment
+237, 45.4660674, 9.1664965, Movimento arte contemporanea - gallery
+238, 45.4634263, 9.1663980, Rossella Orlandi - gallery
+239, 45.4700345, 9.1661552, Ariosto Social Club - apartment
+242, 45.4668066, 9.1664078, Residenza Vignale - apartment
+261, 45.4846834, 9.1628174, GogolOstello - hostel
+300, 45.4888703, 9.1706946, Museo del Profumo - museum
+304, 45.5024532, 9.1697069, Hotel VIlla Cheta - guest_house
+306, 45.5019963, 9.1665134, Bovisa House - apartment
+315, 45.5215609, 9.1639709, Museo darte Paolo Pini - museum
+317, 45.3881195, 9.1712494, Museo delle pentole nella storia - museum
+322, 45.4430017, 9.1787316, Segheria - gallery
+329, 45.4493346, 9.1776762, Galleria Contrasto - gallery
+330, 45.4521367, 9.1748807, Lavanderia vecchia - attraction
+331, 45.4468494, 9.1721536, Unknown - apartment
+332, 45.4523068, 9.1759506, Mercatone del Naviglio Grande - attraction
+333, 45.4540519, 9.1729388, Fiori di Grano - guest_house
+334, 45.4542938, 9.1727882, Casa Aramis - apartment
+335, 45.4529370, 9.1716961, Area 35 - gallery
+336, 45.4502717, 9.1729751, Galleria Patricia Armocida - gallery
+337, 45.4545100, 9.1731254, Apart Hotel Navigli - apartment
+338, 45.4542260, 9.1729989, Homing - apartment
+341, 45.4612943, 9.1716149, F-84 F Thunderstreak - attraction
+342, 45.4613219, 9.1715275, Fiat G91R - attraction
+343, 45.4612365, 9.1717261, North American FIAT F–86 K - attraction
+344, 45.4613926, 9.1712229, Unknown - attraction
+366, 45.4655696, 9.1797055, RH Rent House - apartment
+377, 45.4576014, 9.1805807, Wall of Dolls - attraction
+378, 45.4627709, 9.1716203, 29 ARTS IN PROGRESS gallery - gallery
+379, 45.4632985, 9.1727632, Art D2 - gallery
+380, 45.4577507, 9.1796498, Antiquarium Alda Levi - museum
+381, 45.4656210, 9.1787191, Civico museo archeologico di Milano - museum
+382, 45.4623364, 9.1763635, Museo della Basilica di SantAmbrogio - museum
+383, 45.4656594, 9.1734816, Museo Martinitt e Stelline - museum
+384, 45.4586667, 9.1714260, Travellers Loft - apartment
+385, 45.4599131, 9.1717597, Unknown - gallery
+386, 45.4640088, 9.1802452, Circo Romano - attraction
+390, 45.4710787, 9.1794290, Museo Egizio - museum
+392, 45.4695290, 9.1798619, Civica raccolta delle stampe Achille Bertarelli - museum
+393, 45.4702509, 9.1789653, Museo degli Strumenti Musicali - museum
+394, 45.4711522, 9.1791775, Museo dei Mobili e delle Sculture Lignee - museum
+395, 45.4707554, 9.1796095, Museo dArte Antica - museum
+396, 45.4712609, 9.1798050, Pinacoteca del Castello Sforzesco - museum
+399, 45.4696982, 9.1788527, Museo Pietà Rondanini - museum
+402, 45.4694849, 9.1772109, Studio Museo Achille Castiglioni - museum
+406, 45.4700808, 9.1723099, Viasaterna - gallery
+434, 45.4721477, 9.1734894, Triennale Design Museum - museum
+435, 45.4704047, 9.1781940, Museo delle Arti Decorative - museum
+436, 45.4711086, 9.1796719, Museo Archeologico - Sezione Preistoria e Protostoria - museum
+437, 45.4677407, 9.1761203, Cadorna house - guest_house
+439, 45.4716914, 9.1776960, Vista sul Parco Sempione - viewpoint
+443, 45.4822582, 9.1802182, The Hub - attraction
+444, 45.4804767, 9.1786510, Residence Giusti6 - apartment
+446, 45.4857530, 9.1791206, Tomba di Alessandro Manzoni - attraction
+451, 45.4831707, 9.1792778, ADI Design Museum - museum
+454, 45.4842265, 9.1745284, Museo storico dei vigili del fuoco di Milano - museum
+479, 45.4908467, 9.1711766, Meininger Milan Garibaldi - hostel
+480, 45.4959454, 9.1778264, Museo Branca - museum
+481, 45.5024966, 9.1763330, Hostel 3 - apartment
+483, 45.5048382, 9.1757556, Mario Best House - guest_house
+488, 45.5070635, 9.1783137, Inna Best House - guest_house
+492, 45.4449933, 9.1823016, Still - gallery
+493, 45.4541326, 9.1822592, Cappella Portinari - attraction
+494, 45.4546749, 9.1810291, Museo Diocesano di Milano - museum
+495, 45.4541557, 9.1817511, Museo della basilica di SantEustorgio - museum
+496, 45.4532848, 9.1844790, New generation Hostel Navigli - hostel
+500, 45.4521834, 9.1834086, Bruzzanese - apartment
+504, 45.4609570, 9.1816366, Studio Museo Francesco Messina - museum
+505, 45.4633932, 9.1902304, Museo del Novecento - museum
+507, 45.4611023, 9.1888924, Cripta di San Giovanni in Conca - attraction
+509, 45.4634578, 9.1852091, Museo Mangini Bonomi - museum
+513, 45.4567506, 9.1873103, Residence di corso Italia - apartment
+515, 45.4608716, 9.1810916, Ostello Bello - hostel
+518, 45.4653175, 9.1828441, Teatro Romano - attraction
+520, 45.4636401, 9.1860073, Pinacoteca Ambrosiana - museum
+529, 45.4644431, 9.1903007, Battistero di San Giovanni alle Fonti - attraction
+530, 45.4635818, 9.1855224, Foro Romano - attraction
+542, 45.4643180, 9.1878906, Apart Hotel dei Mercanti - apartment
+543, 45.4650094, 9.1899605, Highline Galleria - viewpoint
+544, 45.4665338, 9.1897113, Leonardo3 Museum - Il Mondo di Leonardo - museum
+545, 45.4587087, 9.1825180, Piazza della Vetra - yes
+574, 45.4616875, 9.1880206, Heart Milan Apartments - apartment
+578, 45.4722421, 9.1884071, Pinacoteca di Brera - museum
+583, 45.4673111, 9.1892579, Museo Teatrale alla Scala - museum
+584, 45.4717091, 9.1893470, Museo Astronomico di Brera - museum
+585, 45.4686296, 9.1904128, The Place - Suite Manzoni - apartment
+586, 45.4672650, 9.1905257, Gallerie dItalia - museum
+597, 45.4673117, 9.1847646, Milano Suites - apartment
+600, 45.4721120, 9.1896370, Museo del Risorgimento - museum
+624, 45.4702500, 9.1824540, Museo darte e scienza - museum
+631, 45.4754045, 9.1826575, Unknown - gallery
+642, 45.4830750, 9.1818097, LaFavia 4 rooms - guest_house
+645, 45.4794859, 9.1855670, Dream Factory - gallery
+646, 45.4775483, 9.1816487, Galleria Kaufmann Repetto - gallery
+663, 45.4946030, 9.1872624, Museo della Macchina da Scrivere - museum
+664, 45.4890989, 9.1864081, Residence Villa Odescalchi - apartment
+665, 45.4901757, 9.1907502, Residence Zara - apartment
+666, 45.4932641, 9.1838645, Residence Lepontina - apartment
+667, 45.4896941, 9.1856355, MiCamera - gallery
+668, 45.4929581, 9.1875413, Fonderia Napoleonica Eugenia - museum
+669, 45.4954310, 9.1830877, Primo Marella Gallery Milan - gallery
+672, 45.5179802, 9.1894216, Galleria dArte Sacra dei Contemporanei - museum
+673, 45.5195948, 9.1877277, Siloe - apartment
+675, 45.5308160, 9.1889688, Zambon - museum
+693, 45.4658366, 9.1932914, Residence San Paolo - residence
+699, 45.4661574, 9.1957087, San Pietro allOrto 6 - apartment
+708, 45.4649824, 9.1945063, Glamour Apartments Milano - apartment
+710, 45.4604789, 9.1957932, I tesori della Ca Granda - museum
+711, 45.4659737, 9.1932069, Duomo Apartments - apartment
+718, 45.4586783, 9.1923208, Osteria La Pergola - hostel
+722, 45.4614171, 9.1911798, Enjoy Duomo - apartment
+726, 45.4666443, 9.1914503, Museo San fedele - museum
+728, 45.4650812, 9.1981026, Milhouse Suites Duomo - apartment
+738, 45.4685907, 9.1962586, Palazzo Morando - Costume Moda Immagine - museum
+739, 45.4684748, 9.1917804, Museo Poldi Pezzoli - museum
+741, 45.4694809, 9.1949792, Museo Bagatti Valsecchi - museum
+746, 45.4755144, 9.1922352, New Generation Hostel Urban Brera - hostel
+747, 45.4703709, 9.1917903, RTA Residence - apartment
+759, 45.4672762, 9.2001076, Montenapoleone Suites - apartment
+760, 45.4728256, 9.1933456, Milan Royal Suites-Centro - guest_house
+766, 45.4725327, 9.1996760, Galleria dArte Moderna - museum
+767, 45.4754499, 9.1976584, Unknown - picnic_site
+770, 45.4702156, 9.1916998, Building Gallery - gallery
+775, 45.4678068, 9.1920792, Casa Manzoni - museum
+776, 45.4765941, 9.1955129, Museo della Permanente - museum
+799, 45.4860696, 9.1978018, Unknown - motel
+815, 45.4886796, 9.1947108, Residence Pola - guest_house
+824, 45.4894495, 9.2005225, B&B I AM HERE - guest_house
+825, 45.4939121, 9.1950214, K34 Milano - B&B - guest_house
+828, 45.4996203, 9.1995357, Hotel Villa Gioia - guest_house
+829, 45.4997896, 9.1994454, Music Hotel - guest_house
+830, 45.4978600, 9.1948150, B&B Villa Milano - guest_house
+831, 45.4972897, 9.1919103, Holiday Homes Residence - apartment
+839, 45.4440727, 9.2033698, Unknown - viewpoint
+849, 45.4529524, 9.2050849, YellowSquare Milano - hostel
+851, 45.4582226, 9.2047312, QUO Hostel - hostel
+859, 45.4641609, 9.2033209, Babila Hostel - hostel
+865, 45.4654968, 9.2029948, Studio Museo Vico Magistretti - museum
+873, 45.4674897, 9.2062493, Foresteria Monforte - guest_house
+879, 45.4687960, 9.2029354, Dialogo nel Buio - attraction
+880, 45.4749084, 9.2051448, Albergo diurno Venezia - attraction
+882, 45.4696052, 9.2018121, Casa dellOrecchio - attraction
+887, 45.4727340, 9.2024419, Museo Civico di Storia Naturale - museum
+888, 45.4688373, 9.2084455, Museo dei Beni Culturali Cappuccini - museum
+889, 45.4670111, 9.2100487, bellaMi - guest_house
+924, 45.4816435, 9.2078380, Grand Hostel Coconut - hostel
+957, 45.4810251, 9.2050258, Museo Delle Illusioni - museum
+962, 45.4830737, 9.2106807, Manifiesto Blanco - gallery
+970, 45.4774937, 9.2102143, Ostelzzz - hostel
+984, 45.4794009, 9.2081083, Fondazione mudima - gallery
+990, 45.4881876, 9.2081742, Memoriale della Shoah - museum
+996, 45.4919075, 9.2078847, Casa di Adriano Celentano - attraction
+997, 45.4889186, 9.2098669, Guest House Brianza Room - hostel
+1000, 45.4878544, 9.2107889, Residenza delle Città - apartment
+1001, 45.4933842, 9.2033747, b&b Milaan - guest_house
+1014, 45.4982983, 9.2088509, B&B my sweet home - guest_house
+1016, 45.5054333, 9.2066574, Flower Hostel - hostel
+1017, 45.4974909, 9.2102609, Tram 1522 - attraction
+1018, 45.5135671, 9.2040168, Museo Interattivo del Cinema - museum
+1020, 45.5113687, 9.2074410, Unknown - viewpoint
+1022, 45.5313667, 9.2029027, Unknown - picnic_site
+1024, 45.4420056, 9.2125338, piazza bonomelli 6/4 - guest_house
+1027, 45.4392493, 9.2114609, Unknown - guest_house
+1087, 45.4790348, 9.2117518, Casa-museo Boschi Di Stefano - museum
+1092, 45.4858721, 9.2206173, Milano Hostel - hostel
+1096, 45.4823205, 9.2173873, Old Milano House - hostel
+1097, 45.4824086, 9.2173879, Lion Hostel - hostel
+1098, 45.4823622, 9.2173864, Scacco Matto - hostel
+1100, 45.4862117, 9.2170540, Piazzale Loreto - attraction
+1125, 45.4943979, 9.2163609, Hug Milano - hostel
+1138, 45.5001832, 9.2206256, Athahotel Linea Uno - apartment
+1139, 45.4977007, 9.2199060, Scream Hostel - hostel
+1143, 45.5042232, 9.2204400, Tempio della notte - attraction
+1151, 45.4348775, 9.2265548, Corvetto Residence - motel
+1177, 45.4710595, 9.2268402, Sunset Hotel - apartment
+1196, 45.4768062, 9.2250404, Aparthotel Città Studi - apartment
+1205, 45.4788350, 9.2274340, Unknown - picnic_site
+1206, 45.4788056, 9.2275204, Unknown - picnic_site
+1207, 45.4787639, 9.2274375, Unknown - picnic_site
+1210, 45.4791211, 9.2271534, Unknown - picnic_site
+1212, 45.4826546, 9.2234083, Galleria Massimo De Carlo - gallery
+1221, 45.4899487, 9.2257438, California Hostel - hostel
+1222, 45.4895393, 9.2256936, Residence Pian della Nave - apartment
+1225, 45.4867629, 9.2237698, Pattini Guesthouse - guest_house
+1226, 45.4954684, 9.2239008, MinItalia - attraction
+1227, 45.4956203, 9.2245406, La rosa dei venti - attraction
+1230, 45.4919447, 9.2226548, Spazio Bidet - gallery
+1231, 45.4928498, 9.2281739, Downtown Nolo Guesthouse - hostel
+1233, 45.5012058, 9.2225759, Residence Loreto - apartment
+1235, 45.5065485, 9.2230921, Milano International Hostel - guest_house
+1236, 45.5058367, 9.2274660, Il Gelsomino - guest_house
+1239, 45.5196201, 9.2255691, Unknown - hostel
+1245, 45.4698553, 9.2342891, Residence Argonne Park - apartment
+1252, 45.4847028, 9.2327536, Hostel Colours - hostel
+1253, 45.4822113, 9.2397340, Mio Hostel - hostel
+1255, 45.4863501, 9.2387273, Meininger Milano Lambrate - hostel
+1257, 45.4897385, 9.2364101, Di Nuova Vista - guest_house
+1260, 45.5010819, 9.2363123, Via Padova 165 - guest_house
+1261, 45.5068797, 9.2371305, Housing 32 - guest_house
+1263, 45.4287588, 9.2500432, Museo del viaggio Fabrizio De André - museum
+1279, 45.4841701, 9.2438505, Venturacinque b&b - guest_house
+1280, 45.4839939, 9.2432168, Prometeo - gallery
+1282, 45.4937717, 9.2470600, Unknown - viewpoint
+1299, 45.4666631, 9.2665236, Unknown - viewpoint
+1301, 45.4666631, 9.2665236, Unknown - viewpoint
+1302, 45.4668906, 9.2653571, Unknown - viewpoint
+1305, 45.4891673, 9.2624046, North American T-6G Texan - attraction
+1311, 45.4669450, 9.2804190, LOrchidea - hostel
