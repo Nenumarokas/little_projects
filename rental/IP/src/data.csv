@@ -1,0 +1,31 @@
+id,name,surname,phone,email,rand_number,address,location,area,age,rooms,garage,pool,basement,dist_to_city,rentable,price,available
+1,Barde,Petkov,+47 681 572 0008,bpetkov0@people.com.cn,147,Žemaitės g. 147,KLP,95,2,4,true,true,true,0,false,50696,true
+2,Feliks,Berth,+63 472 488 9331,fberth1@etsy.com,38,Žemaitės g. 38,KNS,21,1,2,false,true,false,0,false,15072,true
+3,Katinka,Forcade,+1 937 704 5432,kforcade2@comcast.net,116,Didžioji g. 116,other,38,4,2,true,false,false,3,true,26,true
+4,Quinton,Berrecloth,+380 421 916 1466,qberrecloth3@marriott.com,16,Žemaitės g. 16,PNV,32,28,2,true,false,false,0,true,20,true
+5,Grayce,Sciusscietto,+54 659 939 9867,gsciusscietto4@github.com,89,Pilies g. 89,other,96,4,1,true,true,false,2,false,84385,true
+6,Merola,Gerardin,+1 443 471 5124,mgerardin5@indiatimes.com,150,Didžioji g. 150,PNV,83,57,1,false,false,false,0,false,86892,true
+7,Shanon,Roddan,+269 411 275 2289,sroddan6@japanpost.jp,50,Gedimino al. 50,ALT,98,1,4,false,false,false,0,false,57601,true
+8,Modesta,Cisco,+234 704 159 6430,mcisco7@photobucket.com,53,Mindaugo g. 53,KNS,25,4,1,true,false,false,0,false,35691,true
+9,Cecilla,Meiklam,+380 166 869 4393,cmeiklam8@imdb.com,108,Tilto g. 108,ALT,52,11,1,true,true,true,0,true,38,true
+10,Horton,Ehlerding,+98 799 150 7943,hehlerding9@google.co.jp,88,Laisvės al. 88,other,31,32,2,false,false,true,2,true,26,true
+11,Sayer,Scoffins,+255 631 842 4086,sscoffinsa@technorati.com,107,Laisvės al. 107,PNV,30,2,1,true,false,false,0,false,98626,true
+12,Moyna,Habbert,+86 805 559 0527,mhabbertb@1und1.de,10,Pilies g. 10,PNV,31,2,2,false,false,false,0,false,27817,true
+13,Moina,Humberstone,+62 748 895 3517,mhumberstonec@ebay.com,24,Žemaitės g. 24,ALT,30,1,2,true,true,false,0,false,69663,true
+14,Blanca,Jessup,+60 862 934 1628,bjessupd@home.pl,4,Vilniaus g. 4,ALT,28,9,2,true,true,false,0,true,38,true
+15,Saxon,Brazil,+54 377 805 7015,sbrazile@yandex.ru,75,Didžioji g. 75,other,52,6,1,true,true,false,2,false,13105,true
+16,Gilligan,Sybbe,+86 197 192 7385,gsybbef@1688.com,6,Trakų g. 6,VLN,76,3,1,true,false,false,0,false,74575,true
+17,Crin,Wolver,+62 312 427 6064,cwolverg@newyorker.com,44,Mindaugo g. 44,KNS,61,87,3,false,true,true,0,true,32,true
+18,Ty,Dods,+66 704 537 9412,tdodsh@liveinternet.ru,92,Gedvydo g. 92,PNV,50,21,1,false,false,true,0,false,58236,true
+19,Vikki,Haine,+63 438 212 5216,vhainei@quantcast.com,140,Trakų g. 140,KNS,35,1,3,false,true,false,0,true,41,true
+20,Candace,Issakov,+63 610 730 6994,cissakovj@ovh.net,124,Tilto g. 124,other,53,125,1,false,true,true,2,true,29,true
+21,Howard,Petlyura,+62 842 767 8867,hpetlyurak@epa.gov,125,Vilniaus g. 125,KLP,53,13,2,true,true,true,0,true,41,true
+22,Jeri,Tolle,+86 883 362 4886,jtollel@cbsnews.com,147,Mindaugo g. 147,KLP,20,1,3,false,false,true,0,false,53312,true
+23,Pris,Awin,+20 954 819 9087,pawinm@japanpost.jp,143,Vilniaus g. 143,KNS,40,2,3,false,true,true,0,false,37573,true
+24,Alexio,Burg,+62 316 388 4930,aburgn@latimes.com,61,Tilto g. 61,VLN,32,38,2,false,true,true,0,true,29,true
+25,Donn,Persicke,+7 452 403 7469,dpersickeo@spotify.com,102,Trakų g. 102,PNV,23,11,3,false,true,false,0,false,90555,true
+26,Kara-lynn,Bischof,+86 899 954 2303,kbischofp@prweb.com,111,Šv. Ignoto g. 111,PNV,42,13,5,false,true,true,0,false,8812,true
+27,Cesare,Fehners,+976 195 422 6469,cfehnersq@microsoft.com,37,Trakų g. 37,other,76,4,2,true,true,true,1,false,93394,true
+28,Fowler,Silvester,+880 883 669 3099,fsilvesterr@icq.com,92,Tilto g. 92,KLP,90,3,1,true,true,false,0,false,28587,true
+29,Reeva,McCloch,+7 202 950 9895,rmcclochs@t-online.de,22,Pilies g. 22,other,92,5,2,true,false,true,3,true,41,true
+30,Brina,Balazin,+358 734 177 1887,bbalazint@etsy.com,37,Trakų g. 37,VLN,28,66,1,true,true,true,0,true,47,true

@@ -1,0 +1,32 @@
+id;name;surname;phone;email;rand_number;address;location;area;age;rooms;garage;pool;basement;dist_to_city;rentable;price;available
+1;Barde;Petkov;476 815 720 008;bpetkov0@people.com.cn;147;Žemaitės g. 147;KLP;95;2;4;TRUE;TRUE;TRUE;0;FALSE;50696;TRUE
+2;Feliks;Berth;634 724 889 331;fberth1@etsy.com;38;Žemaitės g. 38;KNS;21;1;2;FALSE;TRUE;FALSE;0;FALSE;15072;TRUE
+3;Katinka;Forcade;19 377 045 432;kforcade2@comcast.net;116;Didžioji g. 116;other;38;4;2;TRUE;FALSE;FALSE;3;TRUE;26;TRUE
+4;Quinton;Berrecloth;3 804 219 161 466;qberrecloth3@marriott.com;16;Žemaitės g. 16;PNV;32;28;2;TRUE;FALSE;FALSE;0;TRUE;20;TRUE
+5;Grayce;Sciusscietto;546 599 399 867;gsciusscietto4@github.com;89;Pilies g. 89;other;96;4;1;TRUE;TRUE;FALSE;2;FALSE;84385;TRUE
+6;Merola;Gerardin;14 434 715 124;mgerardin5@indiatimes.com;150;Didžioji g. 150;PNV;83;57;1;FALSE;FALSE;FALSE;0;FALSE;86892;TRUE
+7;Shanon;Roddan;2 694 112 752 289;sroddan6@japanpost.jp;50;Gedimino al. 50;ALT;98;1;4;FALSE;FALSE;FALSE;0;FALSE;57601;TRUE
+8;Modesta;Cisco;2 347 041 596 430;mcisco7@photobucket.com;53;Mindaugo g. 53;KNS;25;4;1;TRUE;FALSE;FALSE;0;FALSE;35691;TRUE
+9;Cecilla;Meiklam;3 801 668 694 393;cmeiklam8@imdb.com;108;Tilto g. 108;ALT;52;11;1;TRUE;TRUE;TRUE;0;TRUE;38;TRUE
+10;Horton;Ehlerding;987 991 507 943;hehlerding9@google.co.jp;88;Laisvės al. 88;other;31;32;2;FALSE;FALSE;TRUE;2;TRUE;26;TRUE
+11;Sayer;Scoffins;2 556 318 424 086;sscoffinsa@technorati.com;107;Laisvės al. 107;PNV;30;2;1;TRUE;FALSE;FALSE;0;FALSE;98626;TRUE
+12;Moyna;Habbert;868 055 590 527;mhabbertb@1und1.de;10;Pilies g. 10;PNV;31;2;2;FALSE;FALSE;FALSE;0;FALSE;27817;TRUE
+13;Moina;Humberstone;627 488 953 517;mhumberstonec@ebay.com;24;Žemaitės g. 24;ALT;30;1;2;TRUE;TRUE;FALSE;0;FALSE;69663;TRUE
+14;Blanca;Jessup;608 629 341 628;bjessupd@home.pl;4;Vilniaus g. 4;ALT;28;9;2;TRUE;TRUE;FALSE;0;TRUE;38;TRUE
+15;Saxon;Brazil;543 778 057 015;sbrazile@yandex.ru;75;Didžioji g. 75;other;52;6;1;TRUE;TRUE;FALSE;2;FALSE;13105;TRUE
+16;Gilligan;Sybbe;861 971 927 385;gsybbef@1688.com;6;Trakų g. 6;VLN;76;3;1;TRUE;FALSE;FALSE;0;FALSE;74575;TRUE
+17;Crin;Wolver;623 124 276 064;cwolverg@newyorker.com;44;Mindaugo g. 44;KNS;61;87;3;FALSE;TRUE;TRUE;0;TRUE;32;TRUE
+18;Ty;Dods;667 045 379 412;tdodsh@liveinternet.ru;92;Gedvydo g. 92;PNV;50;21;1;FALSE;FALSE;TRUE;0;FALSE;58236;TRUE
+19;Vikki;Haine;634 382 125 216;vhainei@quantcast.com;140;Trakų g. 140;KNS;35;1;3;FALSE;TRUE;FALSE;0;TRUE;41;TRUE
+20;Candace;Issakov;636 107 306 994;cissakovj@ovh.net;124;Tilto g. 124;other;53;125;1;FALSE;TRUE;TRUE;2;TRUE;29;TRUE
+21;Howard;Petlyura;628 427 678 867;hpetlyurak@epa.gov;125;Vilniaus g. 125;KLP;53;13;2;TRUE;TRUE;TRUE;0;TRUE;41;TRUE
+22;Jeri;Tolle;868 833 624 886;jtollel@cbsnews.com;147;Mindaugo g. 147;KLP;20;1;3;FALSE;FALSE;TRUE;0;FALSE;53312;TRUE
+23;Pris;Awin;209 548 199 087;pawinm@japanpost.jp;143;Vilniaus g. 143;KNS;40;2;3;FALSE;TRUE;TRUE;0;FALSE;37573;TRUE
+24;Alexio;Burg;623 163 884 930;aburgn@latimes.com;61;Tilto g. 61;VLN;32;38;2;FALSE;TRUE;TRUE;0;TRUE;29;TRUE
+25;Donn;Persicke;74 524 037 469;dpersickeo@spotify.com;102;Trakų g. 102;PNV;23;11;3;FALSE;TRUE;FALSE;0;FALSE;90555;TRUE
+26;Kara-lynn;Bischof;868 999 542 303;kbischofp@prweb.com;111;Šv. Ignoto g. 111;PNV;42;13;5;FALSE;TRUE;TRUE;0;FALSE;8812;TRUE
+27;Cesare;Fehners;9 761 954 226 469;cfehnersq@microsoft.com;37;Trakų g. 37;other;76;4;2;TRUE;TRUE;TRUE;1;FALSE;93394;TRUE
+28;Fowler;Silvester;8 808 836 693 099;fsilvesterr@icq.com;92;Tilto g. 92;KLP;90;3;1;TRUE;TRUE;FALSE;0;FALSE;28587;TRUE
+29;Reeva;McCloch;72 029 509 895;rmcclochs@t-online.de;22;Pilies g. 22;other;92;5;2;TRUE;FALSE;TRUE;3;TRUE;41;TRUE
+30;Brina;Balazin;3 587 341 771 887;bbalazint@etsy.com;37;Trakų g. 37;VLN;28;66;1;TRUE;TRUE;TRUE;0;TRUE;47;TRUE
+;;;;;;;;98;125;5;;;;3;;98626;
